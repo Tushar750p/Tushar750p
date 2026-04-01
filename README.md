@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:  I'AM TUSSHAR PATIL
 🚀 Linux Administrator & DevOps Enthusiast  <br>💻 Skilled in Docker, CI/CD, AWS & Automation  <br>📦 Experience in deploying scalable applications  <br>🎯 Currently preparing for RHCSA & CLA  
 
 
@@ -12,7 +12,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Tushar750p&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar750p&layout=compact&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api?username=Tushar750p&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tushar750p&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar750p&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -20,8 +19,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tushar750p&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tushar750p&limit=5&theme=dark&combine_all_yearly_contributions=true)
