@@ -1,5 +1,5 @@
 # 💫 About Me:  I'AM TUSSHAR PATIL
-🚀 Linux Administrator & DevOps Enthusiast  <br>💻 Skilled in Docker, CI/CD, AWS & Automation  <br>📦 Experience in deploying scalable applications  <br>🎯 Currently preparing for RHCSA 
+🚀 Linux Administrator & DevOps Enthusiast  <br>💻 Skilled in Docker, CI/CD, AWS & Automation  <br>📦 Experience in deploying scalable applications  <br>🎯 Currently preparing for DevOps
 
 
 ## 🌐 Socials:
