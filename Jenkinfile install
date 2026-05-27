@@ -1,15 +1,44 @@
-sudo apt update
-sudo apt install fontconfig openjdk-21-jre
+#!/bin/bash
+
+# Update packages
+sudo apt update -y
+
+# Install Java 21
+sudo apt install -y fontconfig openjdk-21-jre
+
+# Check Java version
 java -version
+
+# Create keyrings directory
+sudo mkdir -p /etc/apt/keyrings
+
+# Add Jenkins key
 sudo wget -O /etc/apt/keyrings/jenkins-keyring.asc \
-  https://pkg.jenkins.io/debian-stable/jenkins.io-2026.key
-echo "deb [signed-by=/etc/apt/keyrings/jenkins-keyring.asc]" \
-  https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
-  /etc/apt/sources.list.d/jenkins.list > /dev/null
-sudo apt update
-sudo apt install jenkins
+https://pkg.jenkins.io/debian-stable/jenkins.io-2026.key
+
+# Add Jenkins repository
+echo "deb [signed-by=/etc/apt/keyrings/jenkins-keyring.asc] \
+https://pkg.jenkins.io/debian-stable binary/" | \
+sudo tee /etc/apt/sources.list.d/jenkins.list > /dev/null
+
+# Update packages again
+sudo apt update -y
+
+# Install Jenkins
+sudo apt install -y jenkins
+
+# Enable Jenkins service
 sudo systemctl enable jenkins
+
+# Start Jenkins
 sudo systemctl start jenkins
-sudo systemctl status jenkins
+
+# Check Jenkins status
+sudo systemctl status jenkins --no-pager
+
+# Restart Jenkins
 sudo systemctl restart jenkins
+
+# Show Jenkins initial admin password
+echo "Jenkins Initial Admin Password:"
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
