@@ -1,6 +1,14 @@
-# 💫 About Me:  I'AM TUSSHAR PATIL
-🚀 Linux Administrator & DevOps Enthusiast  <br>💻 Skilled in Docker, CI/CD, AWS & Automation  <br>📦 Experience in deploying scalable applications  <br>🎯 Linux System Administrator | DevOps Enthusiast | AWS | Docker | Kubernetes | Terraform | OpenShift | Building Cloud Infrastructure & Automation Projects
+💫 About Me
 
+Hi, I'm Tushar Patil 👋
+
+🚀 Linux System Administrator & DevOps Enthusiast
+
+💻 Hands-on with Linux, AWS, Docker, Kubernetes, Terraform, OpenShift, Podman, and Buildah
+
+☁️ Passionate about Cloud Infrastructure, Automation, CI/CD, and Container Technologies
+
+🎯 Building real-world DevOps projects and continuously improving Linux administration and cloud engineering skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tushar-patil-4127402aa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tp991425@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tp991425@gmail.com) 
